@@ -35,13 +35,13 @@ python GMM_System_GUI_v1.5.py ```
 2. Click the "Browse" button to select the LUT data file (.mat) 
 ### 3. Field Mapping Settings
 The system automatically detects the fields in the MAT file. Users need to select the corresponding field names for each parameter: 
-| Parameter          | Description | Suggested Field Name | |------|------|------------|
+| Parameter | Description | Suggested Field Name | |------|------|------------|
 | measure_wind_speed | Measured wind speed data | `cygnss_wind`, `wind_speed` |
-| measure_nbrcs      | Measured NBRCS data | `nbrcs_mean`, `nbrcs` |
-| measure_les        | Measured LES data | `les_mean`, `les` |
-| nbrcs_les          | LUT-based NBRCS-LES data | `nbrcs_les_save` |
-| wind_speed         | LUT-based wind speed data | `wind_speed_save` |
-| nbrcs         | LUT-based NBRCS data | `nbrcs_effective` |
+| measure_nbrcs | Measured NBRCS data | `nbrcs_mean`, `nbrcs` |
+| measure_les | Measured LES data | `les_mean`, `les` |
+| nbrcs_les | LUT-based NBRCS-LES data | `nbrcs_les_save` |
+| wind_speed | LUT-based wind speed data | `wind_speed_save` |
+| nbrcs | LUT-based NBRCS data | `nbrcs_effective` |
 | les | LUT-based LES data | `les_effective` |
 | wind_speed_all | Complete wind speed data in LUT | `wind_speed_effective` | 
 ### 4. Output Settings
