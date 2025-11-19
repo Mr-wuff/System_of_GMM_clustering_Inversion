@@ -19,12 +19,14 @@ The CYGNSS GMM wind speed inversion system is a satellite wind speed data proces
 ## Installation and Startup 
 ### Installation Steps
 1. Make sure Python 3.7 or a higher version has been installed.
-2. Install the required packages: ```bash
+2. Install the required packages:
+```bash
 pip install PyQt5 numpy scipy scikit-learn joblib psutil matplotlib
 ```
-
-Start the system ```bash
-python GMM_System_GUI_v1.5.py ```
+### Start the system 
+```bash
+python GMM_System_GUI_v1.5.py
+```
 
 ## Usage Process 
 ### 1. Data Preparation
