@@ -8,8 +8,8 @@ Derivation Wind Speeds Based on Gaussian Mixture Model Matching
 - Date first available: November 19th, 2025
 - Software required: Before use, the required dependencies need to be installed: pip install PyQt5 scipy numpy scikit-learn joblib psutil matplotlib
 - Program language: Python
-- Source code at: [https://github.com/](https://github.com/Mr-wuff/System_of_GMM_clustering_Inversion/GMM_System_GUI_v*.*.py)
-- Documentation: Detailed documentation for application installation, testing, and deployment can be found at [https://github.com/](https://github.com/Mr-wuff/System_of_GMM_clustering_Inversion/Software_technical_guidance.md)
+- Source code at: https://github.com/Mr-wuff/System_of_GMM_clustering_Inversion/GMM_System_GUI_v*.*.py
+- Documentation: Detailed documentation for application installation, testing, and deployment can be found at https://github.com/Mr-wuff/System_of_GMM_clustering_Inversion/Software_technical_guidance.md
 - Data required for local installation and use of software is accessed through the cloud. See Data Availability Statement.
 
 ## Version update
